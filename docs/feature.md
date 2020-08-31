@@ -80,3 +80,8 @@ Công ty lưu trữ dịch vụ DNS hosting.
 >**Lưu ý**: Lưu trữ web về cơ bản là không gian lưu trữ các tệp tin trang web của bạn. Mặc dù lưu trữ DNS là thứ kết nối người dùng trang web và giữ domain trong trạng thái Online.
 
 Các nhà cung cấp dịch vụ lưu trữ DNS chuyên dụng có xu hướng có cơ sở hạ tầng nhanh hơn và đáng tin cậy hơn, được thiết kế từ đầu để lưu trữ lượng truy vấn DNS và không có gì khác.
+
+Tài liệu tham khảo
+
+* [HuyTM](https://docs.google.com/presentation/d/1Nazuf9lVWPWT7XsduJocTok5qswI751hP5WHBU0g6e8/edit#slide=id.g94be251430_0_29)
+* [Medium](https://medium.com/)
