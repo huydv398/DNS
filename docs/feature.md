@@ -1,20 +1,17 @@
 # Features Domain Name System
 
 1. [Tổng quan DNS](#what)
-*    [DNS gì?](#what)
-*	[Lịch sử hình thành]()
+*   [DNS gì?](#what)
+*   [Lịch sử hình thành]()
 2. [Chức năng của DNS](#funtion)
 3. [Hoạt động của DNS](#active)
-4. [Kiến trúc DNS]()
+<!-- 4. [Kiến trúc DNS](#architecture) -->
 5. [Domain Registrar DNS Hosting](#Regis)
 * [Registrar](#Registrar)
 * [Registry](#Registry)
 6. [Nhược điểm]()
-
-**DNS là gì?**
 <a name="what"></a>
-<a name=""></a>
-<a name="funtion"></a>
+
 
 <a name=""></a>
 <a name=""></a>
@@ -27,6 +24,8 @@
 Ví dụ **DNS**:
 * Tôi muốn gọi điện cho A Công nhưng không nhớ số điện thoại của A Công. Tôi sẽ lưu tên và số điện thoại vào Danh bạ của mình. Khi gọi tôi chỉ cần tìm tên A Công thay vì tôi phải nhớ từng số điện thoại của Anh
 * Nom na là Tôi không thể nhớ IP facebook, google, Youtube nhưng tôi nhé tên của họ. DNS sẽ giúp tôi tìm ra các địa chỉ IP mà tôi muốn đến thông qua tên domain mà tôi nhớ.
+
+<a name="funtion"></a>
 
 ## Chức năng của DNS
 * Chức năng chính là phân giải tên miền.
@@ -57,6 +56,10 @@ Máy chủ đệ quy gửi bản ghi A cho máy tính của bản. PC lưu bản
 Mặc dù nó có vẻ là một quá trình dài và phức tạp, nhưng chỉ mất vài giây, đôi khi chỉ micro giây, để toàn bộ quá trình DNS diễn ra.
 
 Với hệ thống này người dùng chỉ cần biết tên miền của bạn. Địa chỉ IP cho từng máy chủ mà trang web của bạn được đặt trên đó không liên qua đến chúng. Nếu bất kỳ cập nhật nào được thực hiện trên trang web hoặc tên miền, DNS để trỏ địa chỉ IP của máy chủ mới của bạn cũng được cập nhật. Khách truy cập của bạn vẫn truy cập trang web của bạn bằng cách chỉ sử dụng trên miền của bạn; mặc dù địa chỉ IP đã thay đổi. Linh hoạt làm cho Internet trở lên mạnh mẽ
+<a name="architecture"></a>
+
+## Kiến trúc DNS
+
 
 <a name="Regis"></a>
 
